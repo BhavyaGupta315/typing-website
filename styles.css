@@ -1,0 +1,15 @@
+.rubik-scribble-regular {
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Rubik Scribble;
+    /* color: black; */
+    background: rgb(206,206,215);
+/* background: linear-gradient(10deg, rgba(206,206,215,1) 35%, rgba(204,234,240,1) 45%, rgba(41,39,70,1) 88%); */
+}
+ 
